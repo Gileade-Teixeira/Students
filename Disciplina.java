@@ -26,7 +26,8 @@ public class Disciplina
         for(int aux=0; aux<alunos.length; aux++){
             if(alunos[aux].getmedia()>=7.0){
                 total++;
-                System.out.println(total+"- Nome: "+alunos[aux].getnome()+", Matricula: "+alunos[aux].getmatricula()+", Media: "+alunos[aux].getmedia()+"(Nota 1 = "+alunos[aux].getnota1()+", Nota 2 = "+alunos[aux].getnota2()+", Nota 3 = "+alunos[aux].getnota3()+")");            
+                System.out.println(total + "- Nome: " + alunos[aux].getnome() + ", Matricula: " + alunos[aux].getmatricula() + ", Media: " + alunos[aux].getmedia() +
+                                   "(Nota 1 = " + alunos[aux].getnota1() + ", Nota 2 = " + alunos[aux].getnota2() + ", Nota 3 = " + alunos[aux].getnota3() + ")" );            
             }
         }
     }
