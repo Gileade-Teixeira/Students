@@ -1,2 +1,2 @@
 # Students
-First Project Applying OOPs Concepts in Java
+Academic Project Using the BlueJ tool to learn OOPs Concepts in Java
