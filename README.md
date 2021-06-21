@@ -5,7 +5,7 @@ Teste [online](https://onlinegdb.com/hTCZu52xw)!
 
 ![java](https://user-images.githubusercontent.com/77688036/122704548-54e9cd00-d22a-11eb-94e2-fcd9d71b0a2b.png)
 
-<strong>Ideia:</strong> Uma aplicação que calcula a média de todos os alunos cadastrados em uma disciplina. Como usar:
+<strong>Ideia:</strong> uma aplicação que calcula a média de todos os alunos cadastrados em uma disciplina. Funcionamento:
   - Informe o nome de sua disciplina;
   - Informe a quantidade de alunos. Essa quantidade será usada como parâmetro no array de alunos (Recomendação: informe uma quantidade pequena);
   - Informe os dados desse aluno, como matrícula, nome e suas três notas. A média é dada por (n1+n2+n3)/3;
